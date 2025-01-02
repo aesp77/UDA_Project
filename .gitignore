@@ -30,6 +30,7 @@ env/
 *.csv
 *.xlsx
 *.json
+*.pth
 
 # Ignore folders
 node_modules/
